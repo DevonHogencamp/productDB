@@ -1,0 +1,78 @@
+Brand
+Model
+Megapixels
+Aperture
+Rating
+Price
+
+
+{
+    "brand": "GoPro",
+    "model": "HERO5",
+    "megapixels": 12,
+    "rating": 4.6,
+    "price": 400
+},
+{
+    "brand": "Canon",
+    "model": "80D",
+    "megapixels": 24.2,
+    "rating": 4.8,
+    "price": 1400
+},
+{
+    "brand": "Sony",
+    "model": "A6000",
+    "megapixels": 24.3,
+    "rating": 4.7,
+    "price": 700
+},
+{
+    "brand": "Sony",
+    "model": "A7",
+    "megapixels": 24.3,
+    "rating": 4.4,
+    "price": 1100
+},
+{
+    "brand": "Nikon",
+    "model": "D7200",
+    "megapixels": 24.2,
+    "rating": 4.7,
+    "price": 1000
+},
+{
+    "brand": "Nikon",
+    "model": "D3300",
+    "megapixels": 24.2,
+    "rating": 4.7,
+    "price": 500
+},
+{
+    "brand": "Canon",
+    "model": "T6I",
+    "megapixels": 24.2,
+    "rating": 4.5,
+    "price": 700
+},
+{
+    "brand": "Panasonic",
+    "model": "GH4",
+    "megapixels": 16,
+    "rating": 4.1,
+    "price": 900
+},
+{
+    "brand": "Nikon",
+    "model": "D750",
+    "megapixels": 24.3,
+    "rating": 4.6,
+    "price": 1800
+},
+{
+    "brand": "",
+    "model": "",
+    "megapixels": ,
+    "rating": ,
+    "price":
+},
