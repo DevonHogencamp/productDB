@@ -1,11 +1,3 @@
-Brand
-Model
-Megapixels
-Aperture
-Rating
-Price
-
-
 {
     "brand": "GoPro",
     "model": "HERO5",
@@ -70,9 +62,9 @@ Price
     "price": 1800
 },
 {
-    "brand": "",
-    "model": "",
-    "megapixels": ,
-    "rating": ,
-    "price":
+    "brand": "Canon",
+    "model": "T5",
+    "megapixels": 18,
+    "rating": 4.7,
+    "price": 400
 },
