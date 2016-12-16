@@ -2,10 +2,14 @@
 
 // Require all neccesary packages and modules
 var express = require('express');
-var products = require('./routes/products');
+var bodyParser = require('body-parser');
+var products = require('./products');
 
 // Start the express app
 var app = express();
+
+// Use body parser json
+app.use(bodyParser.json());
 
 // Fire the products router
 products(app);
